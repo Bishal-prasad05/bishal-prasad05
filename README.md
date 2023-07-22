@@ -1,4 +1,5 @@
-<img src="header_image.png"></img>
+</img>![header](https://github.com/bishal-prasad05/bishal-prasad05/assets/140269336/d113e083-4d8f-4c4b-ad27-f0e47375b258)
+
 <div align="center">
 <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0F95F7&center=true&vCenter=true&width=441&lines=----+I'm+%F0%9F%98%8E+passionate+about+Technology+----" alt="Typing SVG" /></a>
 </div>
@@ -15,9 +16,9 @@
   
 - I’m currently learning *Web-Development*
   <br>
-- 🔭 I’m currently working on **To-do App**
+- 🔭 I’m currently working on **Weather App**
   <br>
-- 📫 How to reach me *bishalprasad251122@gmail.com*
+- 📫 How to reach me *bishalprasad10@gmail.com*
   <br>
 - Check out My Portfolio website <a href="https://bishal-prasad05.github.io/portfolio.github.io/" target="blank">@Bishal-Prasad</a>
   <br>
