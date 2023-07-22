@@ -18,7 +18,7 @@
   <br>
 - 🔭 I’m currently working on **Weather App**
   <br>
-- 📫 How to reach me *bishalprasad10@gmail.com*
+- 📫 How to reach me *bishalprasad251122@gmail.com*
   <br>
 - Check out My Portfolio website <a href="https://bishal-prasad05.github.io/portfolio.github.io/" target="blank">@Bishal-Prasad</a>
   <br>
